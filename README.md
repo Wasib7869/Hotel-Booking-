@@ -51,6 +51,8 @@ Import Mode used in Power BI for loading data from static files (like Excel or C
 📌 Example Use Cases:
 Revenue Forecasting: Identify months with high cancellation to adjust pricing strategies.
 
+ScreenShot:https://github.com/Wasib7869/Hotel-Booking-/blob/main/Screenshot%202025-07-20%20144741.png
+
 Customer Behavior Analysis: Understand booking and cancellation patterns by country or day of the week.
 
 Operational Planning: Manage resources more efficiently based on peak and off-peak periods.
